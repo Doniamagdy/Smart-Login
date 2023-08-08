@@ -1,0 +1,24 @@
+body {
+  font-family: "Acme", sans-serif;
+  font-family: "Pacifico", cursive;
+  font-family: "Rancho", cursive;
+}
+
+nav {
+  position: absolute;
+  right: 40px;
+  top: 40px;
+}
+
+.section_two {
+  background-image: url(../images/jack-oldham-galaxy-mountain-wallpaper-2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  height: 60vh;
+}
+
+.layer {
+  background-color: rgba(29, 28, 28, 0.568);
+  height: 60vh;
+}
