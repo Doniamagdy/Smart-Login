@@ -45,7 +45,7 @@ function logIn2() {
 }
 
 function checkUrl() {
-  var url = "file:///C:/Users/donal/OneDrive/Desktop/dd/homepage.html";
+  var url = "https://doniamagdy.github.io/Smart-Login/homepage.html";
   url.includes = "homepage";
 
   if (localStorage.getItem("session") == null && document.URL == url) {
